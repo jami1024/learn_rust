@@ -1,2 +1,2 @@
 # learn_rust
-学习rust
+跟着`https://course.rs/`学习rust
